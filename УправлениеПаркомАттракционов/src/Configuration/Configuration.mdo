@@ -48,6 +48,8 @@
   <roles>Role.ОператорАттракциона</roles>
   <roles>Role.ПолныеПрава</roles>
   <commonModules>CommonModule.НомераТелефоновКлиентСервер</commonModules>
+  <commonModules>CommonModule.СЕ_ОбщегоНазначения</commonModules>
+  <constants>Constant.ДлинаНомераТелефона</constants>
   <constants>Constant.МаксимальнаяДоляОплаты</constants>
   <catalogs>Catalog.Аттракционы</catalogs>
   <catalogs>Catalog.ВидыАттракционов</catalogs>

@@ -25,61 +25,45 @@
 			<name>Output</name>
 			<value>true</value>
 		</right>
+		<right>
+			<name>ThickClient</name>
+			<value>true</value>
+		</right>
 	</object>
 	<object>
 		<name>Catalog.Аттракционы</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
 		<right>
 			<name>Read</name>
 			<value>true</value>
 		</right>
 		<right>
 			<name>InputByString</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>View</name>
 			<value>true</value>
 		</right>
 	</object>
 	<object>
 		<name>Document.ПродажаБилета</name>
 		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+		<right>
 			<name>Read</name>
 			<value>true</value>
 		</right>
 		<right>
 			<name>InputByString</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>View</name>
 			<value>true</value>
 		</right>
 	</object>
 	<object>
 		<name>Document.ПосещениеАттракционов</name>
 		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>true</value>
-		</right>
-		<right>
 			<name>View</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
 			<value>true</value>
 		</right>
 		<right>
@@ -91,7 +75,23 @@
 			<value>true</value>
 		</right>
 		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Edit</name>
+			<value>true</value>
+		</right>
+		<right>
 			<name>InteractivePostingRegular</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>UndoPosting</name>
 			<value>true</value>
 		</right>
 		<right>
@@ -100,6 +100,10 @@
 		</right>
 		<right>
 			<name>InteractiveChangeOfPosted</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InputByString</name>
 			<value>true</value>
 		</right>
 		<right>

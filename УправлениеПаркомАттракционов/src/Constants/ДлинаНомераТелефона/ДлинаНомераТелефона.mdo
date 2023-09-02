@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0d64080c-d842-4883-85cf-5822906730bc">
+  <producedTypes>
+    <managerType typeId="d5a4e436-07e9-4bf4-a4c0-0f1a57755292" valueTypeId="e6adca7b-5ced-4c12-bed1-04890c36b1bd"/>
+    <valueManagerType typeId="47acb7a3-4711-46ec-a108-d48c52b8fad5" valueTypeId="cb23200f-8b5c-4d7b-a737-fa4e3440931b"/>
+    <valueKeyType typeId="8eefcffb-9a81-4780-9f5e-83ccb087a252" valueTypeId="825b8b89-5558-49a2-b952-ab723f04f153"/>
+  </producedTypes>
+  <name>ДлинаНомераТелефона</name>
+  <synonym>
+    <key>ru</key>
+    <value>Длина номера телефона</value>
+  </synonym>
+  <type>
+    <types>Number</types>
+    <numberQualifiers>
+      <precision>2</precision>
+    </numberQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
